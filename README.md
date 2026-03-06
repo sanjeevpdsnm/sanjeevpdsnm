@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Patel</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20ML%20Enthusiast;Full%20Stack%20Developer;Building%20AI%20Projects;Coding%20Everyday&center=true&width=500&height=50">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 </p>
 
 <h3 align="center">
