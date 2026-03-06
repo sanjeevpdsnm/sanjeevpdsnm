@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Patel</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="500"/>
-</p>
+</p> -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanjeev%20Kumar%20Patel&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 <h3 align="center">
 AI/ML Enthusiast | Full Stack Developer | CSE @ NIT Srinagar
