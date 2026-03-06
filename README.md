@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋 I'm Sanjeev Kumar Patel</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/master/assets/github-contribution-grid-snake.svg" width="100%">
+</p>
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="500"/>
 </p> -->
