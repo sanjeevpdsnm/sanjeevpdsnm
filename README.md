@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Patel</h1>
 
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+</p>
+
 <h3 align="center">
 AI/ML Enthusiast | Full Stack Developer | CSE @ NIT Srinagar
 </h3>
