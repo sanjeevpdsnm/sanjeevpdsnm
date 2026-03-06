@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Patel</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </p>
 
 <h3 align="center">
