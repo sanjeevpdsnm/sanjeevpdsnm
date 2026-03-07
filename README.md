@@ -5,6 +5,10 @@
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="500"/>
 </p> -->
 
+<p align="center">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200">
+</p>
+
 <h3 align="center">
 AI/ML Enthusiast | Full Stack Developer | CSE @ NIT Srinagar
 </h3>
