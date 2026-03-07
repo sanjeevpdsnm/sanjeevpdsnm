@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sanjeev Kumar Patel</h1>
 
-
- <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljaXF3cnZwejJsdTdlYXN3eG5mdnd3dnI0MmRibDFtdGxzNjlxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PRVDslxfTmwXkLinrk/giphy.gif" width="500"/>
-</p>
-
 <p align="center">
 <img src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif" width="200">
 </p>
