@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif" width="200">
+<img src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif" width="200">
 </p>
 
 <h3 align="center">
