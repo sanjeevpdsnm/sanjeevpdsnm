@@ -1,77 +1,73 @@
-<h1 align="center">Hi 👋 I'm Sanjeev Kumar Patel</h1>
+<h1 align="center">Hi 👋, I'm Sanjeev Kumar Patel</h1>
 
 <p align="center">
-<img src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif" width="200">
+<img src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif" width="160">
 </p>
 
 <h3 align="center">
-AI/ML Enthusiast | Full Stack Developer | CSE @ NIT Srinagar
+AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20ML%20Enthusiast;Full%20Stack%20Developer;DSA%20Learner;Building%20Real%20World%20Projects&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;DSA+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech **Computer Science & Engineering** student at **NIT Srinagar**
 
-🤖 **AI/ML Enthusiast** exploring Machine Learning & Data Science
+🤖 **AI / ML Enthusiast** exploring Machine Learning & Data Science
 
 💻 Interested in **Full Stack Development**
 
 📊 Solved **250+ problems on LeetCode**
 
 🌱 Currently learning  
-- Data Science  
-- C++  
-- Machine Learning  
+• Data Science  
+• C++  
+• Machine Learning  
 
 ⚡ Passionate about building **AI tools and real-world tech solutions**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 ### 🌐 Web Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚙ Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ### 🤖 AI / ML
-
 Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjeevpdsnm&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeevpdsnm&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevpdsnm&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevpdsnm&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevpdsnm&theme=tokyonight"/>
@@ -79,69 +75,54 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevpdsnm&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-## LeetCode Stats
+# 🧠 LeetCode Stats
 
 <p align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sanjeevkumarpatel)
-
+<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=Karma&ext=contest"/>
 </p>
 
----
-## 📊 LeetCode
+### 📊 LeetCode Highlights
 
-- 250+ Problems Solved  
-- 100 Days Badge  
-- Active DSA learner
-  
----
-
-## 💻 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevpdsnm&layout=compact&theme=tokyonight"/>
-
-</p>
+• 250+ Problems Solved  
+• 100 Days Badge  
+• Active DSA Learner  
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-🚀 **LeetCode Dashboard**  
-Track daily coding progress and achievements using HTML, CSS and JavaScript.
+### 🧠 AI Campus Life Assistant
+AI assistant designed to solve common campus problems like hostel complaints and service requests.
 
-🖥 **UltraEdit Website Clone**  
+### 📊 LeetCode Dashboard
+A web dashboard to track daily coding progress and achievements using **HTML, CSS, and JavaScript**.
+
+### 🖥 UltraEdit Website Clone
 Responsive clone of the UltraEdit website using modern frontend practices.
 
-🤖 **AI Campus Life Assistant** 
-AI assistant designed to solve common campus problems like hostel complaints and services.
-
-🧠 **GitHub Portfolio Analyzer**  
+### 🤖 GitHub Portfolio Analyzer
 AI tool that analyzes GitHub profiles and suggests improvements.
 
 ---
 
-## 🌟 Current Focus
+# 🎯 Current Focus
 
-- Data Science  
-- Machine Learning  
-- AI Tools Development  
-- Full Stack Development
+• Machine Learning  
+• Data Science  
+• AI Tools Development  
+• Full Stack Development  
 
 ---
 
-## 👀 Profile Visitors
+# 👀 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sanjeevpdsnm&label=Profile%20views&color=blue&style=flat" />
@@ -149,14 +130,16 @@ AI tool that analyzes GitHub profiles and suggests improvements.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 Email: **sanjeev2005p.05@gmail.com**
 
-💼 LinkedIn: *https://www.linkedin.com/in/sanjeev-kumar-patel/*
+💼 LinkedIn  
+https://www.linkedin.com/in/sanjeev-kumar-patel/
 
-💻 GitHub: https://github.com/sanjeevpdsnm
+💻 GitHub  
+https://github.com/sanjeevpdsnm
 
 ---
 
-⭐ **"Striving to build intelligent solutions that solve real-world problems."**
+⭐ **Striving to build intelligent systems that solve real-world problems.**
