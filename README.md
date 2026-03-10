@@ -69,7 +69,9 @@ Machine Learning • Data Science • Prompt Engineering
 ## LeetCode Stats
 
 <p align="center">
-<img src="![LeetCode Stats](https://leetcard.jacoblin.cool/sanjeevkumarpatel)"/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjeevkumarpatel)
+
 </p>
 
 ---
