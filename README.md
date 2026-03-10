@@ -97,6 +97,26 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjeevpdsnm&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📊 Developer Metrics
+
+<p align="center">
+
+<img src="https://metrics.lecoq.io/sanjeevpdsnm?template=classic&base.header=0&base.repositories=0&config.timezone=Asia%2FKolkata"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 ### 🧠 AI Campus Life Assistant
