@@ -62,7 +62,36 @@ Machine Learning • Data Science • Prompt Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=sanjeevpdsnm&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevpdsnm&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevpdsnm&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sanjeevpdsnm&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
@@ -75,27 +104,21 @@ Machine Learning • Data Science • Prompt Engineering
 </p>
 
 ---
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevpdsnm&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevpdsnm&theme=tokyonight"/>
-</p>
-
----
-
 ## 📊 LeetCode
 
 - 250+ Problems Solved  
 - 100 Days Badge  
 - Active DSA learner
+  
+---
+
+## 💻 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevpdsnm&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
