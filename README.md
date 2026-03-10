@@ -117,6 +117,14 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/sanjeevpdsnm/sanjeevpdsnm/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 ### 🧠 AI Campus Life Assistant
