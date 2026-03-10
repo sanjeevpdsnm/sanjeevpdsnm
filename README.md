@@ -86,15 +86,6 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-## 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sanjeevpdsnm&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 ## LeetCode Stats
 
 <p align="center">
