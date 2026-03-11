@@ -165,7 +165,7 @@ AI tool that analyzes GitHub profiles and suggests improvements.
 </p>
 
 ---
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-sanjeevpdsnm-orange?logo=leetcode)
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-sanjeevkumarpatel-orange?logo=leetcode)
 ---
 
 # 📫 Connect With Me
