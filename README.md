@@ -86,7 +86,7 @@ Machine Learning • Data Science • Prompt Engineering
 ## 📅 Contribution Calendar
 
 <p align="center">
-<img src="https://github-contribution-stats.vercel.app/api/?username=sanjeevpdsnm" />
+<img src="https://ghchart.rshah.org/409ba5/sanjeevpdsnm" />
 </p>
 
 ---
