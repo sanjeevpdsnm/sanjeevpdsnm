@@ -165,8 +165,12 @@ AI tool that analyzes GitHub profiles and suggests improvements.
 💼 LinkedIn  
 https://www.linkedin.com/in/sanjeev-kumar-patel/
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar%20Patel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-kumar-patel/)
+
 💻 GitHub  
 https://github.com/sanjeevpdsnm
+
+![GitHub followers](https://img.shields.io/github/followers/sanjeevpdsnm?style=for-the-badge&logo=github)
 
 ---
 
