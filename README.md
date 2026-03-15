@@ -97,13 +97,17 @@ Machine Learning • Data Science • Prompt Engineering
 • 100 Days Badge  
 • Active DSA Learner  
 
-## 🧠 LeetCode Dashboard
+## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=heatmap" width="48%"/>
-<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=contest" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=contest"/>
 </p>
 
+## 🔥 LeetCode Activity
+
+<p align="center">
+<img src="https://leetcode-stats.vercel.app/api?username=sanjeevkumarpatel&theme=dark"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
