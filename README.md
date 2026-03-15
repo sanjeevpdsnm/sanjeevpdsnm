@@ -94,7 +94,7 @@ Machine Learning • Data Science • Prompt Engineering
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=Karma&ext=contest&ext=heatmap"/>
 </p>
 
 ### 📊 LeetCode Highlights
