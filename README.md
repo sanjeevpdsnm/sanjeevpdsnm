@@ -1,38 +1,5 @@
-<!-- FLOATING NAME BANNER -->
-
 <p align="center">
-<svg width="650" height="140" viewBox="0 0 650 140" xmlns="http://www.w3.org/2000/svg">
-
-<style>
-.text {
-  font-size: 52px;
-  font-weight: bold;
-  fill: #00F7FF;
-  font-family: 'Fira Code', monospace;
-}
-
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-14px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes glow {
-  0% { filter: drop-shadow(0 0 5px #00F7FF); }
-  50% { filter: drop-shadow(0 0 20px #00F7FF); }
-  100% { filter: drop-shadow(0 0 5px #00F7FF); }
-}
-
-.name {
-  animation: float 3s ease-in-out infinite, glow 2.5s ease-in-out infinite;
-}
-</style>
-
-<text x="50%" y="65%" text-anchor="middle" class="text name">
-Sanjeev Kumar Patel
-</text>
-
-</svg>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Sanjeev+Kumar+Patel" />
 </p>
 
 <p align="center">
