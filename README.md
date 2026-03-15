@@ -100,8 +100,8 @@ Machine Learning • Data Science • Prompt Engineering
 ## 🧠 LeetCode Dashboard
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/sanjeevpdsnm?theme=dark&font=baloo&ext=heatmap" width="48%"/>
-<img src="https://leetcard.jacoblin.cool/sanjeevpdsnm?theme=dark&font=baloo&ext=contest" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=heatmap" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=contest" width="48%"/>
 </p>
 
 ---
