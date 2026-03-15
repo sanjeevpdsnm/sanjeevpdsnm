@@ -91,20 +91,18 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-# 🧠 LeetCode Stats
-
-# 📊 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/sanjeevpdsnm?theme=dark&font=baloo&ext=heatmap" width="48%"/>
-<img src="https://leetcard.jacoblin.cool/sanjeevpdsnm?theme=dark&font=baloo&ext=contest" width="48%"/>
-</p>
-
 ### 📊 LeetCode Highlights
 
 • 250+ Problems Solved  
 • 100 Days Badge  
 • Active DSA Learner  
+
+## 🧠 LeetCode Dashboard
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/sanjeevpdsnm?theme=dark&font=baloo&ext=heatmap" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/sanjeevpdsnm?theme=dark&font=baloo&ext=contest" width="48%"/>
+</p>
 
 ---
 
