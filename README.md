@@ -1,68 +1,75 @@
-<h1 align="center">Hi 👋, I'm Sanjeev Kumar Patel</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Sanjana%20Gupta&fontSize=50&fontAlignY=40&desc=Machine%20Learning%20Enthusiast%20|%20Competitive%20Programmer&descSize=18&descAlignY=60&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif" width="160">
-</p>
-
-<h3 align="center">
-AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;DSA+Learner;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Sanjana+Gupta;Machine+Learning+Enthusiast;Competitive+Programmer;Building+AI+Projects"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech **Computer Science & Engineering** student at **NIT Srinagar**
-
-🤖 **AI / ML Enthusiast** exploring Machine Learning & Data Science
-
-💻 Interested in **Full Stack Development**
-
-📊 Solved **250+ problems on LeetCode**
-
-🌱 Currently learning  
-• Data Science  
-• C++  
-• Machine Learning  
-
-⚡ Passionate about building **AI tools and real-world tech solutions**
+🎓 B.Tech Computer Science Student  
+📊 CGPA: **9.67**  
+💻 Passionate about **Machine Learning, Data Science, and Algorithms**  
+🧠 Solved **150+ problems on LeetCode**  
+🚀 Interested in building **ML systems, recommendation engines, and data-driven applications**
 
 ---
 
-# 🛠 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
-</p>
-
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### 🤖 AI / ML
-Machine Learning • Data Science • Prompt Engineering
-
----
-
-# 📊 GitHub Analytics
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeevpdsnm&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/sanjanagupta21876">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevpdsnm&layout=compact&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/sanjana-gupta-50865334b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
+<a href="https://leetcode.com/u/SanjanaGupta_2005/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+</p>
+
+---
+
+# 🌌 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux,vscode" />
+</p>
+
+### Machine Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Data Science
+<p align="center">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn">
+</p>
+
+---
+
+# 🏆 GitHub Trophy Wall
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanjanagupta21876&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sanjanagupta21876&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanagupta21876&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -70,120 +77,102 @@ Machine Learning • Data Science • Prompt Engineering
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevpdsnm&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanagupta21876&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Coding Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevpdsnm&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanagupta21876&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📅 Contribution Calendar
+# 📊 LeetCode Stats
 
 <p align="center">
-<img src="https://ghchart.rshah.org/409ba5/sanjeevpdsnm" />
-</p>
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=Karma&ext=contest"/>
-</p>
-
-### 📊 LeetCode Highlights
-
-• 250+ Problems Solved  
-• 100 Days Badge  
-• Active DSA Learner  
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjeevpdsnm&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 📊 Developer Metrics
-
-<p align="center">
-
-<img src="https://metrics.lecoq.io/sanjeevpdsnm?template=classic&base.header=0&base.repositories=0&config.timezone=Asia%2FKolkata"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeevpdsnm/sanjeevpdsnm/output/github-contribution-grid-snake.svg">
+<img src="https://leetcard.jacoblin.cool/SanjanaGupta_2005?theme=dark&font=baloo&ext=heatmap"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 AI Campus Life Assistant
-AI assistant designed to solve common campus problems like hostel complaints and service requests.
+## 🏠 Smart Hostel (ML-Based System)
 
-### 📊 LeetCode Dashboard
-A web dashboard to track daily coding progress and achievements using **HTML, CSS, and JavaScript**.
+Machine Learning system that predicts hostel attendance and mess demand.
 
-### 🖥 UltraEdit Website Clone
-Responsive clone of the UltraEdit website using modern frontend practices.
+**Features**
 
-### 🤖 GitHub Portfolio Analyzer
-AI tool that analyzes GitHub profiles and suggests improvements.
+- Attendance prediction
+- Mess demand forecasting
+- Reduces food wastage
+- Data-driven decision making
 
----
+**Tech**
 
-# 🎯 Current Focus
-
-• Machine Learning  
-• Data Science  
-• AI Tools Development  
-• Full Stack Development  
+Python • Scikit-learn • Pandas • Machine Learning
 
 ---
 
-# 👀 Profile Visitors
+## 👕 Jackets & Hoodies Customization
+
+Personalized recommendation system for clothing customization.
+
+**Features**
+
+- User preference modeling
+- Product feature matching
+- Personalized recommendations
+
+**Tech**
+
+Python • Machine Learning • Data Processing
+
+---
+
+# 🧠 Competitive Programming
+
+- 🧩 **LeetCode:** 150+ Problems Solved  
+- 💡 Strong focus on **Data Structures & Algorithms**
+
+Profile  
+👉 https://leetcode.com/u/SanjanaGupta_2005/
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sanjeevpdsnm&label=Profile%20views&color=blue&style=flat" />
+<img src="https://raw.githubusercontent.com/sanjanagupta21876/sanjanagupta21876/output/snake.svg"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# ⚡ GitHub Metrics
 
-📧 Email: **sanjeev2005p.05@gmail.com**
-
-💼 LinkedIn  
-https://www.linkedin.com/in/sanjeev-kumar-patel/
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar%20Patel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-kumar-patel/)
-
-💻 GitHub  
-https://github.com/sanjeevpdsnm
-
-![GitHub followers](https://img.shields.io/github/followers/sanjeevpdsnm?style=for-the-badge&logo=github)
-
-🟡 LeetCode Profile Link Badge
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/sanjeevkumarpatel/)
+<p align="center">
+<img src="https://metrics.lecoq.io/sanjanagupta21876?template=classic&base.header=0&config.timezone=Asia%2FKolkata"/>
+</p>
 
 ---
 
-⭐ **Striving to build intelligent systems that solve real-world problems.**
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sanjanagupta21876&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 📬 Contact
+
+📧 sanjana.628339@gmail.com  
+
+---
+
+⭐ If you like my work, consider giving a **star** to my repositories!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
