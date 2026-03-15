@@ -1,15 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sanjeev Kumar Patel</h1>
+<!-- FLOATING NAME BANNER -->
 
 <p align="center">
-<img src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif" width="160">
+<svg width="650" height="140" viewBox="0 0 650 140" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.text {
+  font-size: 52px;
+  font-weight: bold;
+  fill: #00F7FF;
+  font-family: 'Fira Code', monospace;
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-14px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes glow {
+  0% { filter: drop-shadow(0 0 5px #00F7FF); }
+  50% { filter: drop-shadow(0 0 20px #00F7FF); }
+  100% { filter: drop-shadow(0 0 5px #00F7FF); }
+}
+
+.name {
+  animation: float 3s ease-in-out infinite, glow 2.5s ease-in-out infinite;
+}
+</style>
+
+<text x="50%" y="65%" text-anchor="middle" class="text name">
+Sanjeev Kumar Patel
+</text>
+
+</svg>
 </p>
 
-<h3 align="center">
+<p align="center">
 AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
-</h3>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;DSA+Learner;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;DSA+Learner;Building+Real+World+Projects;Open+Source+Contributor" />
 </p>
 
 ---
@@ -18,40 +49,41 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 🎓 B.Tech **Computer Science & Engineering** student at **NIT Srinagar**
 
-🤖 **AI / ML Enthusiast** exploring Machine Learning & Data Science
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
 💻 Interested in **Full Stack Development**
 
 📊 Solved **250+ problems on LeetCode**
 
-🌱 Currently learning  
-• Data Science  
-• C++  
-• Machine Learning  
+🧠 Strong interest in **Data Structures & Algorithms**
 
-⚡ Passionate about building **AI tools and real-world tech solutions**
+⚡ Love building **AI tools and real-world tech solutions**
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 ### 🌐 Web Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
 </p>
 
-### ⚙ Tools
+### ⚙ Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ### 🤖 AI / ML
-Machine Learning • Data Science • Prompt Engineering
+
+Machine Learning • Data Science • Prompt Engineering • AI Tools
 
 ---
 
@@ -83,7 +115,7 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-## 📅 Contribution Calendar
+# 📅 Contribution Calendar
 
 <p align="center">
 <img src="https://ghchart.rshah.org/409ba5/sanjeevpdsnm" />
@@ -91,22 +123,19 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-### 📊 LeetCode Highlights
-
-• 250+ Problems Solved  
-• 100 Days Badge  
-• Active DSA Learner 
-
-## 🧠 LeetCode Dashboard
+# 🧠 LeetCode Dashboard
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=heatmap" width="49%" />
 <img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=contest" width="49%" />
 </p>
 
+📊 **250+ Problems Solved**  
+🏅 **100 Days Coding Badge**
+
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -116,7 +145,7 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-## 📊 Developer Metrics
+# 📊 Developer Metrics
 
 <p align="center">
 
@@ -126,27 +155,27 @@ Machine Learning • Data Science • Prompt Engineering
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeevpdsnm/sanjeevpdsnm/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/sanjeevpdsnm/sanjeevpdsnm/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧠 AI Campus Life Assistant
-AI assistant designed to solve common campus problems like hostel complaints and service requests.
+### 🤖 GitHub Portfolio Analyzer
+Tool that analyzes GitHub repositories and generates insights to improve developer portfolios.
 
-### 📊 LeetCode Dashboard
-A web dashboard to track daily coding progress and achievements using **HTML, CSS, and JavaScript**.
+### 📊 LeetCode Progress Tracker
+Dashboard that tracks coding progress and displays problem-solving statistics.
+
+### 🎓 Campus Life Platform
+Student platform designed to simplify campus services and announcements.
 
 ### 🖥 UltraEdit Website Clone
 Responsive clone of the UltraEdit website using modern frontend practices.
-
-### 🤖 GitHub Portfolio Analyzer
-AI tool that analyzes GitHub profiles and suggests improvements.
 
 ---
 
@@ -159,32 +188,38 @@ AI tool that analyzes GitHub profiles and suggests improvements.
 
 ---
 
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sanjeev-kumar-patel/">
+<img src="https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar%20Patel-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/sanjeevkumarpatel/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/sanjeevpdsnm">
+<img src="https://img.shields.io/badge/GitHub-sanjeevpdsnm-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+📧 **Email:** sanjeev2005p.05@gmail.com
+
+---
+
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sanjeevpdsnm&label=Profile%20views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sanjeevpdsnm&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+<p align="center">
 
-📧 Email: **sanjeev2005p.05@gmail.com**
+⭐ **Building intelligent systems that solve real-world problems**
 
-💼 LinkedIn  
-https://www.linkedin.com/in/sanjeev-kumar-patel/
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar%20Patel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-kumar-patel/)
-
-💻 GitHub  
-https://github.com/sanjeevpdsnm
-
-![GitHub followers](https://img.shields.io/github/followers/sanjeevpdsnm?style=for-the-badge&logo=github)
-
-🟡 LeetCode Profile Link Badge
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/sanjeevkumarpatel/)
-
----
-
-⭐ **Striving to build intelligent systems that solve real-world problems.**
+</p>
