@@ -7,10 +7,6 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sanjeev+Kumar+Patel;AI+%2F+ML+Enthusiast+•+Full+Stack+Developer+•+CSE+%40+NIT+Srinagar" alt="Typing Animation" />
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=AI+%2F+ML+Enthusiast;Full+Stack+Developer;DSA+Learner;Building+Real+World+Projects;Open+Source+Contributor" />
 </p>
 
