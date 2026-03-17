@@ -47,8 +47,8 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 <table border="0">
   <tr>
     <td width="50%">
-      <a href="https://github.com/sanjeevpdsnm/Github-Portfolio-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=Github-Portfolio-Analyzer&theme=tokyonight" />
+      <a href="https://github.com/sanjeevpdsnm/Github_Portfolio_Analyzer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=Github_Portfolio_Analyzer&theme=tokyonight" />
       </a>
     </td>
   </tr>
