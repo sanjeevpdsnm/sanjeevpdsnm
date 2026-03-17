@@ -69,11 +69,19 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 ---
 
-# 🧠 LeetCode Dashboard
+# 🧠 Problem Solving Profiles
 
+### LeetCode Dashboard
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=heatmap" width="49%" />
 <img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=contest" width="49%" />
+</p>
+
+### GeeksforGeeks Stats
+<p align="center">
+<a href="https://www.geeksforgeeks.org/user/@sanjeev2121a/">
+  <img src="https://gfgstatscard.vercel.app/@sanjeev2121a?theme=dark" alt="GeeksforGeeks Stats" />
+</a>
 </p>
 
 ---
