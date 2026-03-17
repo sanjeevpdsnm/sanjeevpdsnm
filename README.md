@@ -79,8 +79,8 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 ### GeeksforGeeks Stats
 <p align="center">
-<a href="https://www.geeksforgeeks.org/user/@sanjeev2121a/">
-  <img src="https://gfgstatscard.vercel.app/@sanjeev2121a?theme=dark" alt="GeeksforGeeks Stats" />
+<a href="https://www.geeksforgeeks.org/user/sanjeev2121a/">
+  <img src="https://gfgstatscard.vercel.app/sanjeev2121a?theme=dark" alt="GeeksforGeeks Stats" />
 </a>
 </p>
 
