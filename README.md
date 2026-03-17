@@ -47,31 +47,25 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 <table border="0">
   <tr>
     <td width="50%">
-      <a href="https://github.com/sanjeevpdsnm/Smart-Hostel-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=Smart-Hostel-System&theme=tokyonight" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/sanjeevpdsnm/GitHub-Portfolio-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=GitHub-Portfolio-Analyzer&theme=tokyonight" />
+      <a href="https://github.com/sanjeevpdsnm/Github-Portfolio-Analyzer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=Github-Portfolio-Analyzer&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/sanjeevpdsnm/LeetCode-Progress-Tracker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=LeetCode-Progress-Tracker&theme=tokyonight" />
+      <a href="https://github.com/sanjeevpdsnm/leetcodeprogress">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=leetcodeprogress&theme=tokyonight" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/sanjeevpdsnm/Campus-Life-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=Campus-Life-Platform&theme=tokyonight" />
+      <a href="https://github.com/sanjeevpdsnm/CAMPUS-LIFE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=CAMPUS-LIFE&theme=tokyonight" />
       </a>
     </td>
   </tr>
 </table>
 
-*(Note: Ensure the repository names in the `repo=` parameters match your actual GitHub repositories exactly!)*
 
 ---
 
