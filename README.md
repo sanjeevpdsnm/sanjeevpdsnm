@@ -131,7 +131,6 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 * **Machine Learning & Data Science:** Building intelligent models and exploring AI tools.
 * **Full Stack & Databases:** Designing robust architectures using MongoDB and Node.js.
-* **Cybersecurity:** Exploring the mechanics of social engineering and system vulnerabilities.
 * **Problem Solving:** Consistently grinding DSA with over 250 problems solved.
 
 ---
