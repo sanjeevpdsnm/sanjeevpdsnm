@@ -51,6 +51,11 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=Github_Portfolio_Analyzer&theme=tokyonight" />
       </a>
     </td>
+    <td width="50%">
+      <a href="https://github.com/sanjeevpdsnm/NIT-Srinagar-E-Samarth-Portal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeevpdsnm&repo=NIT-Srinagar-E-Samarth-Portal&theme=tokyonight" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td width="50%">
