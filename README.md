@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://github.com/sanjeevpdsnm/sanjeevpdsnm/blob/main/chat.svg)]
+![](https://github.com/sanjeevpdsnm/sanjeevpdsnm/blob/main/chat.svg)
 
 <p align="center">
 AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
